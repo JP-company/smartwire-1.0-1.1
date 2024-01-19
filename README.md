@@ -54,6 +54,14 @@
 https://github.com/JP-company/smartwire/assets/77595494/ded56e60-393e-4eae-a09c-92d521559ef9
 
 
+### 다른 버전
+- VER 1.2 <br>
+   https://github.com/JP-company/smartwire-1.2
+
+- VER 2.0 <br>
+   https://github.com/JP-company/smartwire-backend-2.0
+
+
 
 ### 윈도우 데스크탑 앱 화면 (와이어 기계)
 
