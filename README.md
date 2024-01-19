@@ -44,7 +44,15 @@
 
 
 ### 모바일 앱 화면
+
 <img width="234" height="506" src="https://github.com/JP-company/smartwire-1.0-1.1/assets/77595494/2c245ddc-14a2-4c56-a90b-10ccea6e159c">
+<img width="234" height="506" src="https://github.com/JP-company/smartwire-1.0-1.1/assets/77595494/9fe40634-37dc-4649-bcc8-0dd4678f2f13">
+
+
+### 시연 영상
+
+https://github.com/JP-company/smartwire/assets/77595494/ded56e60-393e-4eae-a09c-92d521559ef9
+
 
 
 ### 윈도우 데스크탑 앱 화면 (와이어 기계)
