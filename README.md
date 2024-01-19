@@ -49,4 +49,4 @@
 
 ### 윈도우 데스크탑 앱 화면 (와이어 기계)
 
-<img width="234" height="506" src="https://github.com/JP-company/smartwire-1.0-1.1/assets/77595494/73550001-5966-48cd-be7e-e1d479253200">
+<img src="https://github.com/JP-company/smartwire-1.0-1.1/assets/77595494/73550001-5966-48cd-be7e-e1d479253200">
