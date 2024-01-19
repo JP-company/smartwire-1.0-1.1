@@ -44,5 +44,9 @@
 
 
 ### 모바일 앱 화면
+<img width="234" height="506" src="https://github.com/JP-company/smartwire-1.0-1.1/assets/77595494/2c245ddc-14a2-4c56-a90b-10ccea6e159c">
 
-![flutter_02](https://github.com/JP-company/smartwire-1.0-1.1/assets/77595494/d1ce1f22-acd7-4b0d-af73-a9bdcf347552)
+
+### 윈도우 데스크탑 앱 화면 (와이어 기계)
+
+<img width="234" height="506" src="https://github.com/JP-company/smartwire-1.0-1.1/assets/77595494/73550001-5966-48cd-be7e-e1d479253200">
